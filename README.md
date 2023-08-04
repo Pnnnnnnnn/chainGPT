@@ -14,6 +14,8 @@ chainGPT is an LLM-powered Chatbot application that connects to a multitude of t
 
 ## Quick Start
 
+Create .env file from .env.example and fill in the required information then run the following commands:
+
 ```bash
 pip install -r requirements.txt
 
