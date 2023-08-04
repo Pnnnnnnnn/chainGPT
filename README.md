@@ -1,4 +1,4 @@
-# chainGPT: Chatbot Application with LLM Integration
+# 🔗chainGPT: Chatbot Application with LLM Integration
 
 chainGPT is an LLM-powered Chatbot application that connects to a multitude of tools, including search API, vector database, and more. Users have the flexibility to personalize the Chatbot's persona to suit their preferences. To enhance user experience and ensure ease of use, we provide a user-friendly Graphical User Interface.
 
